@@ -1,0 +1,7 @@
+# Archivoas a omitir en el repositorio
+
+Nuevo Documento de texto.txt
+*.temp
+
+# Directorios a omitir en el repositorio
+node_modules/
